@@ -1,15 +1,3 @@
-# Decorative WebGL Backgrounds
-
-A collection of decorative shapes displayed as backgrounds using WebGL. The shapes are created with Three.js and animated with the TweenMax library. By Louis Hoebregts.
-
-![Decorative WebGL Backgrounds](https://tympanus.net/codrops/wp-content/uploads/2017/11/DecorativeWebGLBackgrounds_Featured.jpg)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=33168)
-
-[Demo](http://tympanus.net/Development/DecorativeBackgrounds/)
-
-This demo is kindly sponsored by [we.design: Snag the hottest new domain name for designers](http://go.thoughtleaders.io/TLDcodrops211117)
-
 ## Credits
 
 - [three.js](https://threejs.org/)
